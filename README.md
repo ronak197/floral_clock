@@ -1,6 +1,6 @@
 # Floral Clock
 
-A Digital Clock made in Flutter.
+A Digital Clock made in Flutter, showcasing the Indian Floral Art.
 
 ## App Screenshots : 
 
